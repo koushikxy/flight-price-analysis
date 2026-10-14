@@ -37,3 +37,7 @@ pip install -r requirements.txt
 Put `economy.csv` and `business.csv` from Kaggle in `data/` and run the notebook.
 
 Tools: Python, Pandas, Matplotlib, Seaborn, SciPy, Jupyter
+
+---
+
+Koushik Maity · [LinkedIn](https://www.linkedin.com/in/ksmaity/) · [GitHub](https://github.com/koushikxy) · [Portfolio](https://koushikmaity.netlify.app/)
